@@ -66,7 +66,7 @@ const Home = () => {
   };
 
   return (
-    <section className="max-w-7xl mx-auto">
+    <section className="max-w-7xl mx-auto bg-transparent">
       <div>
         <h1 className="font-extrabold text-[#222328] text-[32px]">
           The Community Showcase
